@@ -29,7 +29,7 @@
       </div>
 
       <div class="left-footer">
-        <span>© 2024 LoanFlow Inc. All rights reserved.</span>
+        <span>© 2024 BuySimply. All rights reserved.</span>
       </div>
     </div>
 
