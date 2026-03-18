@@ -7,16 +7,13 @@
       </div>
 
       <div class="left-content">
-        <div class="left-headline">
-          <h1>Staff Portal</h1>
-          <p>Manage loans, track applicants,<br />and stay in control.</p>
-        </div>
+    
 
         <div class="illustration-container">
           <img src="/picture.png" alt="Staff Illustration" class="side-picture" />
         </div>
 
-        <div class="stats-grid">
+        <!-- <div class="stats-grid">
           <div class="stat-card">
             <span class="stat-value">₦2.4B</span>
             <span class="stat-label">Total Disbursed</span>
@@ -25,7 +22,7 @@
             <span class="stat-value">1,294</span>
             <span class="stat-label">Active Loans</span>
           </div>
-        </div>
+        </div> -->
       </div>
 
       <div class="left-footer">
