@@ -13,21 +13,9 @@
           <img src="/picture.png" alt="Staff Illustration" class="side-picture" />
         </div>
 
-        <!-- <div class="stats-grid">
-          <div class="stat-card">
-            <span class="stat-value">₦2.4B</span>
-            <span class="stat-label">Total Disbursed</span>
-          </div>
-          <div class="stat-card">
-            <span class="stat-value">1,294</span>
-            <span class="stat-label">Active Loans</span>
-          </div>
-        </div> -->
       </div>
 
-      <div class="left-footer">
-        <span>© 2024 BuySimply. All rights reserved.</span>
-      </div>
+     
     </div>
 
     <!-- Right Panel -->
