@@ -323,25 +323,6 @@ async function handleLogin() {
   letter-spacing: 0.06em;
 }
 
-/* Decorative rings */
-.left-deco {
-  position: absolute;
-  bottom: -80px;
-  right: -80px;
-  pointer-events: none;
-}
-
-.deco-ring {
-  position: absolute;
-  border-radius: 50%;
-  border: 1px solid rgba(74, 222, 128, 0.08);
-  transform: translate(-50%, -50%);
-}
-
-.ring-1 { width: 240px; height: 240px; top: 0; left: 0; }
-.ring-2 { width: 380px; height: 380px; top: 0; left: 0; border-color: rgba(74,222,128,0.05); }
-.ring-3 { width: 520px; height: 520px; top: 0; left: 0; border-color: rgba(74,222,128,0.03); }
-
 .left-footer {
   font-size: 0.72rem;
   color: #3a6649;
