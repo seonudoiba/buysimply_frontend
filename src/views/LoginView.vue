@@ -18,14 +18,14 @@
      
     </div>
 
-    <!-- Right Panel -->
+
     <div class="right-panel">
       <div class="form-container">
         <!-- Header -->
         <div class="form-header">
           <div class="form-tag">SECURE LOGIN</div>
           <h2>Welcome back</h2>
-          <p>Sign in to your staff account to continue</p>
+          <p>Sign in</p>
         </div>
 
         <!-- Alert -->
