@@ -242,20 +242,25 @@ async function handleLogin() {
 .brand {
   display: flex;
   align-items: center;
-  gap: 12px;
 }
 
-.brand-logo {
+.logo-img {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
+}
+
+.illustration-container {
+  margin: 20px 0;
   display: flex;
-  align-items: center;
-  gap: 10px;
+  justify-content: center;
 }
 
-.brand-name {
-  font-size: 1.25rem;
-  font-weight: 700;
-  color: #fff;
-  letter-spacing: -0.02em;
+.side-picture {
+  max-width: 100%;
+  height: auto;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.2);
 }
 
 .left-content {
@@ -263,7 +268,7 @@ async function handleLogin() {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 48px;
+  gap: 32px;
 }
 
 .left-headline h1 {
