@@ -228,7 +228,7 @@ async function handleLogin() {
 /* ── LEFT PANEL ── */
 .left-panel {
   width: 42%;
-  background: #0a2e1f;
+  background: #F8EAFF;
   display: flex;
   flex-direction: column;
   padding: 40px 48px;
@@ -350,7 +350,7 @@ async function handleLogin() {
   font-family: 'DM Mono', monospace;
   font-size: 0.65rem;
   letter-spacing: 0.15em;
-  color: #0D5C3A;
+  color: #F8EAFF;
   background: #d1fae5;
   padding: 4px 10px;
   border-radius: 100px;
