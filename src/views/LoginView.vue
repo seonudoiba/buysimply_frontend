@@ -242,7 +242,7 @@ async function handleLogin() {
 }
 
 .logo-img {
-  height: 40px;
+  height: 97px;
   width: auto;
   object-fit: contain;
 }
