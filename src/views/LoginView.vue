@@ -3,19 +3,17 @@
     <!-- Left Panel -->
     <div class="left-panel">
       <div class="brand">
-        <div class="brand-logo">
-          <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
-            <rect width="32" height="32" rx="8" fill="#0D5C3A"/>
-            <path d="M8 22L13 10L16 18L19 14L24 22" stroke="#4ADE80" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-          <span class="brand-name">LoanFlow</span>
-        </div>
+        <img src="/logo.png" alt="Logo" class="logo-img" />
       </div>
 
       <div class="left-content">
         <div class="left-headline">
           <h1>Staff Portal</h1>
           <p>Manage loans, track applicants,<br />and stay in control.</p>
+        </div>
+
+        <div class="illustration-container">
+          <img src="/picture.png" alt="Staff Illustration" class="side-picture" />
         </div>
 
         <div class="stats-grid">
@@ -27,20 +25,6 @@
             <span class="stat-value">1,294</span>
             <span class="stat-label">Active Loans</span>
           </div>
-          <div class="stat-card">
-            <span class="stat-value">98.2%</span>
-            <span class="stat-label">Recovery Rate</span>
-          </div>
-          <div class="stat-card">
-            <span class="stat-value">47</span>
-            <span class="stat-label">Pending Review</span>
-          </div>
-        </div>
-
-        <div class="left-deco">
-          <div class="deco-ring ring-1"></div>
-          <div class="deco-ring ring-2"></div>
-          <div class="deco-ring ring-3"></div>
         </div>
       </div>
 
